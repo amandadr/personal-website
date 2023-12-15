@@ -16,13 +16,28 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-jodie": "^5.1.4",
+    "@lekoarts/gatsby-theme-jodie": "git://github.com/amandadr/theme-jodie",
     "gatsby": "^5.12.12",
     "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-sitemap": "^6.12.3",
     "gatsby-plugin-webpack-statoscope": "^1.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@babel/core": "7.19.6",
+    "@babel/generator": "7.19.6",
+    "@babel/compat-data": "7.19.4",
+    "@babel/helper-compilation-targets": "7.19.3",
+    "@babel/helper-create-class-features-plugin": "7.19.0",
+    "@babel/helper-module-transforms": "7.19.6",
+    "@emotion/react": "^11.11.1",
+    "@lekoarts/gatsby-theme-jodie-core": "^5.1.5",
+    "@theme-ui/mdx": "~0.15.3",
+    "@theme-ui/preset-tailwind": "0.15.3",
+    "gatsby-plugin-image": "^3.12.3",
+    "gatsby-plugin-theme-ui": "~0.15.3",
+    "polished": "^4.2.2",
+    "react-helmet": "^6.1.0",
+    "theme-ui": "~0.15.3"
   },
   "devDependencies": {
     "@types/node": "^18.19.3",

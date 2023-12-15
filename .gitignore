@@ -35,9 +35,9 @@ build/Release
 # Dependency directories
 jspm_packages
 node_modules/*
-!node_modules/@lekoarts
-node_modules/@lekoarts/*
-!node_modules/@lekoarts/gatsby-theme-jodie
+# !node_modules/@lekoarts
+# node_modules/@lekoarts/*
+# !node_modules/@lekoarts/gatsby-theme-jodie
 
 # Typescript v1 declaration files
 typings/
