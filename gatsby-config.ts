@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Amanda Roy`,
     siteTitleAlt: `Amanda Roy`,
     siteHeadline: `Amanda Roy's Portfolio`,
-    siteUrl: `https://amandadr.com/`,
+    siteUrl: `https://amandadr.github.io/personal-website/`,
     siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
